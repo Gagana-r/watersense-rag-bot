@@ -1,0 +1,98 @@
+WATER QUALITY GUIDELINES AND PARAMETERS
+WHO Guidelines for Drinking Water Quality
+
+1. pH LEVELS
+The acceptable pH range for drinking water is 6.5 to 8.5.
+Water with pH below 6.5 is considered acidic and can corrode pipes.
+Water with pH above 8.5 is considered alkaline and may cause scaling.
+The ideal pH for drinking water is between 7.0 and 7.5.
+
+2. TURBIDITY
+Turbidity measures the cloudiness of water caused by suspended particles.
+WHO guideline for turbidity is less than 1 NTU (Nephelometric Turbidity Unit).
+High turbidity indicates presence of sediments, bacteria, or other contaminants.
+Turbidity is measured using a turbidimeter or nephelometer.
+
+3. DISSOLVED OXYGEN (DO)
+Dissolved oxygen is essential for aquatic life.
+Acceptable DO levels for drinking water: 6-8 mg/L.
+Low DO levels indicate organic pollution or biological contamination.
+DO below 4 mg/L is harmful to aquatic organisms.
+
+4. NITRATES
+WHO guideline for nitrates in drinking water: 50 mg/L maximum.
+High nitrate levels cause methemoglobinemia (blue baby syndrome) in infants.
+Nitrates enter water from agricultural fertilizers and sewage.
+Safe limit for infants: less than 10 mg/L nitrate-nitrogen.
+
+5. HEAVY METALS
+Lead: Maximum 0.01 mg/L (WHO guideline)
+Arsenic: Maximum 0.01 mg/L
+Mercury: Maximum 0.006 mg/L
+Cadmium: Maximum 0.003 mg/L
+Chromium: Maximum 0.05 mg/L
+Heavy metals cause serious health effects including kidney damage, neurological disorders.
+
+6. TOTAL DISSOLVED SOLIDS (TDS)
+Acceptable TDS range: 500 mg/L (WHO guideline), 1000 mg/L maximum.
+TDS measures all dissolved minerals, salts, and metals in water.
+High TDS gives water a salty or bitter taste.
+Low TDS water may be corrosive.
+
+7. COLIFORM BACTERIA
+Total coliform bacteria should be 0 per 100 mL in drinking water.
+E. coli presence indicates fecal contamination.
+Coliform testing is the primary indicator of water safety.
+Presence of coliforms requires immediate treatment.
+
+8. WATER TREATMENT METHODS
+Chlorination: Most common disinfection method, kills bacteria and viruses.
+Filtration: Removes suspended particles, sediments, and some microorganisms.
+Reverse Osmosis (RO): Removes dissolved solids, heavy metals, and contaminants.
+UV Treatment: Kills microorganisms without adding chemicals.
+Boiling: Kills pathogens but does not remove chemical contaminants.
+Coagulation and Flocculation: Removes turbidity and suspended particles.
+
+9. WATER QUALITY TESTING PARAMETERS
+Physical parameters: Color, odor, taste, turbidity, temperature
+Chemical parameters: pH, TDS, hardness, alkalinity, dissolved oxygen
+Biological parameters: Total coliform, E. coli, fecal coliform
+Radiological parameters: Radioactive substances
+
+10. HEALTH EFFECTS OF CONTAMINATED WATER
+Cholera: Caused by Vibrio cholerae bacteria in contaminated water.
+Typhoid: Caused by Salmonella typhi from fecal contamination.
+Dysentery: Caused by Shigella bacteria or Entamoeba histolytica.
+Fluorosis: Caused by excess fluoride (above 1.5 mg/L).
+Arsenicosis: Caused by long-term exposure to arsenic in groundwater.
+Kidney damage: Caused by heavy metals like lead, cadmium, mercury.
+
+11. WATER HARDNESS
+Soft water: 0-60 mg/L as CaCO3
+Moderately hard: 61-120 mg/L as CaCO3
+Hard water: 121-180 mg/L as CaCO3
+Very hard water: above 180 mg/L as CaCO3
+Hard water causes scaling in pipes and reduces soap lathering.
+
+12. FLUORIDE
+WHO guideline for fluoride: 1.5 mg/L maximum.
+Optimal fluoride for dental health: 0.5-1.0 mg/L.
+Excess fluoride causes dental and skeletal fluorosis.
+Deficiency of fluoride increases risk of dental cavities.
+
+13. CHLORINE RESIDUAL
+Free chlorine residual in distribution system: 0.2-0.5 mg/L.
+Maximum chlorine residual: 5 mg/L.
+Chlorine residual prevents recontamination during distribution.
+Excess chlorine causes taste and odor problems.
+
+14. TEMPERATURE
+Optimal temperature for drinking water: 10-15 degrees Celsius.
+Higher temperatures promote bacterial growth.
+Temperature affects taste, odor, and chemical reactions in water.
+
+15. WATER QUALITY MONITORING
+Regular monitoring is essential for safe drinking water supply.
+Sampling frequency depends on population size and source type.
+Parameters should be tested at source, treatment plant, and distribution points.
+Results should be compared against WHO or national standards.
