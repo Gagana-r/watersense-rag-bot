@@ -1,5 +1,10 @@
-Flask
-flask-mysqldb
-scikit-learn
-nltk
-mysqlclient
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+streamlit
+faiss-cpu
+sentence-transformers
+google-generativeai
+pypdf
+python-dotenv
+huggingface-hub
