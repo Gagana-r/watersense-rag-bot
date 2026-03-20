@@ -14,15 +14,30 @@ st.set_page_config(page_title="WaterSense QA Bot", page_icon="💧", layout="cen
 
 st.markdown("""
 <style>
-.main { background-color: #e8f4f8; }
-.stApp { background: linear-gradient(135deg, #e0f7fa, #b2ebf2, #e0f2f1); }
+.stApp {
+    background: linear-gradient(135deg, #0077B6, #ADE8F4) !important;
+}
+section[data-testid="stSidebar"] {
+    background: #005f8e !important;
+}
+.stChatMessage {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    border-radius: 10px;
+}
+h1, h2, h3 {
+    color: white !important;
+}
 .welcome-box {
-    background-color: #ffffff;
-    border-left: 6px solid #0077b6;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-left: 6px solid #ADE8F4;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    color: white;
+}
+.welcome-box h4, .welcome-box p, .welcome-box li {
+    color: white !important;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -100,4 +115,4 @@ if prompt := st.chat_input("💧 Ask me anything about water quality..."):
     st.session_state.messages.append({"role": "assistant", "content": answer})
 
 st.divider()
-st.markdown("<p style='text-align:center; color:gray;'>© 2026 WaterSense QA Bot | Powered by Google Gemini & LangChain</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color:white;'>© 2026 WaterSense QA Bot | Powered by Google Gemini & LangChain</p>", unsafe_allow_html=True)
