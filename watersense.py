@@ -67,7 +67,7 @@ def load_vectorstore():
 
 @st.cache_resource
 def get_qa_chain(_vectorstore):
-    llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GOOGLE_API_KEY, temperature=0.3)
+    llm = ChatGoogleGenerativeAI(model="models/gemini-1.5-pro", google_api_key=GOOGLE_API_KEY, temperature=0.3)
     retriever = _vectorstore.as_retriever(search_kwargs={"k": 3})
     return llm, retriever
 
